@@ -43,6 +43,12 @@ body {
   margin: 0;
 }
 
+.dropdown-custom {
+  padding-bottom: 10px;
+  color:white;
+  border: 3px;
+}
+
 /* This CSS styles the ufo icon in the navbar */
 .nav-ufo {
   position: absolute;
